@@ -71,4 +71,4 @@ Here is an overview of the key files and folders in this repository:
 *Data Science Student at Superior University*
 *Aspiring Data Engineer*
 
-[LinkedIn Profile Link:https://www.linkedin.com/in/amir-zaheer-b1b40a258/] | [Portfolio Link]
+[LinkedIn Profile Link:https://www.linkedin.com/in/amir-zaheer-b1b40a258/]
